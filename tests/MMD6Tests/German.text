@@ -1,0 +1,23 @@
+Title:	German
+latex config:	article
+language:	de
+
+'foo'
+
+"foo"
+
+foo's
+
+foo --- bar
+
+foo -- bar
+
+5
+
+foo...
+
+[^foo]
+
+[#bar]
+
+[#bar]: foo

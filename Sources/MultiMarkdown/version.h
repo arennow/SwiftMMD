@@ -1,0 +1,5 @@
+#ifndef MULTIMARKDOWN_VERSION
+
+#define MULTIMARKDOWN_VERSION "6.2.0-Rennow"
+
+#endif

@@ -1,0 +1,15 @@
+language: c
+install:
+    - make
+    - cd build; make
+script:
+    - cd build; make test
+branches:
+  only:
+    - master
+    - develop
+    - /^\d+\.\d+.*/
+os:
+  - linux
+  - osx
+sudo: false
